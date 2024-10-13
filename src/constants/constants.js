@@ -30,7 +30,7 @@ export const navLinks = [
   {
     id: "resume",
     title: "Resume",
-    url: "https://drive.google.com/file/d/1gsziMJZTRCUK1-rKFkV7LiqyXyIYGGKL/view?usp=sharing", // Your Google Drive link
+    url: "https://drive.google.com/file/d/17pgdJIrUjZUyESbOpflD5ISYKHd6T9Ty/view?usp=sharing", // Your Google Drive link
   },
 ];
 
